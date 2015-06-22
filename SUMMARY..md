@@ -2,5 +2,5 @@
 
 * 技巧
    * 快捷键
-       * [切换](qie_huan.md)
+       * [切换](skill/key/switch.md)
 
