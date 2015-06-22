@@ -1,6 +1,5 @@
-# mac.321zou.com
-mac使用经验技巧纪录
+# mac之路
+mac使用经验纪录
 
 ##快捷键
 ###切换
-<mac.321zou.com>
