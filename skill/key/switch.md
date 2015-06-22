@@ -59,5 +59,5 @@ Cmd+`
 ```
 在浏览器的页签（tab）之间切换
 ```
-左Cmd+Shift+[
+左Cmd+左Shift+[
 ```
