@@ -4,5 +4,5 @@
 * 技巧
    * 快捷键
        * [切换](skill/key/switch.md)
-       * 窗口
+       * [窗口](chuang_kou.md)
 
