@@ -5,3 +5,5 @@
    * 快捷键
        * [窗口](skill/key/window.md)
        * [切换](skill/key/switch.md)
+       * 方向
+
