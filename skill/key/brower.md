@@ -10,6 +10,16 @@ Cmd+R
 Cmd+L
 ```
     L:location
+##新开页签
+```
+右Cmd+T
+```
+    T:tab
+##新开窗口
+```
+左Cmd+N
+```
+    N:new
 ##向下翻页
 ```
 Space(空格键)
