@@ -4,6 +4,12 @@
 ```
 Cmd+R
 ```
+    R:refresh
+##输入网址
+```
+Cmd+L
+```
+    L:location
 ##向下翻页
 ```
 Space(空格键)
@@ -16,9 +22,11 @@ Shift+Space
 ```
 Ctrl+N
 ```
+    N:next
     注意：适用于safari
 ##向上一行
 ```
 Ctrl+P
 ```
+    P:pre
     注意：适用于safari
