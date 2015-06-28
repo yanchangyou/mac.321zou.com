@@ -3,10 +3,10 @@
 
 图标   |   按键         |说明
 -------|----------------|------------
-⌘      |Command         |
-⌃      |Control         |
-⌥      |Option(alt)     |
-⇧      |Shift           |
+⌘      |Command         |命令键，相当于Windows的标志键
+⌃      |Control         |控制键
+⌥      |Option(alt)     |与windows的键一致
+⇧      |Shift           |大小写切换键
 ⇪      |Caps Lock       |大写锁定
 fn     |fn              |功能键
 
