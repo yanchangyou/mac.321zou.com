@@ -7,4 +7,5 @@
        * [窗口](skill/key/window.md)
        * [切换](skill/key/switch.md)
        * [方向](skill/key/direction.md)
+       * [浏览器](skill/key/brower.md)
 
