@@ -15,6 +15,12 @@ Cmd+L
 右Cmd+T
 ```
     T:tab
+##切换页签
+```
+Shift+Cmd+[
+Shift+Cmd+]
+```
+     提示：向左向右切换tab
 ##新开窗口
 ```
 左Cmd+N
